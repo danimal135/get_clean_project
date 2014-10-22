@@ -1,0 +1,15 @@
+Codebook:
+
+The data in this dataset were collected by giving a samsung galaxy S2 phone to an individual and having them perform activities
+Data from the accelerometers of the galaxy were collected for each task.
+
+
+
+This dataset contains 68 columns.  
+
+Column 1 contains an index of the individual performing the activities, there are 30 individuals
+
+Column 2 contains a string of the activity performed, walking, walking upstairs, etc.  This is already descriptive
+
+Columns 3-68 contain means of the measurement indicated in the column  name and collected from the accelerometer.  Each data point contains the mean
+or standard deviation value of the measurement across the task.
